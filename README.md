@@ -50,8 +50,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-
-##Team Details:
+##Team Details
 
 H. Dheeraj Kishore	    99220040269
 G. Hemanandan Reddy	    99220040265
@@ -59,7 +58,7 @@ T. Akash Reddy	        99220040209
 G. Geetha Vinay Krishna	99220040267
 T. Girish Swamy	        99220040207
 
-##Guide By:
+##Guide By
 
 Dr. R. Sumathi
 (Assistant Professor)
