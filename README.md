@@ -6,6 +6,8 @@
 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
+- [Team Details](#team-details)
+- [Guide](#guide)
 - [Usage](#usage)
 - [Future Enhancements](#future-enhancements)
 - [Contributing](#contributing)
@@ -28,6 +30,18 @@
 - **Mapping API**: Mapbox API (or an equivalent mapping service)
 - **Data**: Real-time geolocation and routing data
 
+## Team Details
+
+- **H. Dheeraj Kishore** - 99220040269
+- **G. Hemanandan Reddy** - 99220040265
+- **T. Akash Reddy** - 99220040209
+- **G. Geetha Vinay Krishna** - 99220040267
+- **T. Girish Swamy** - 99220040207
+
+## Guide
+
+Guided by **Dr. R. Sumathi**, Assistant Professor
+
 ## Usage
 
 1. **Select Pickup and Delivery Locations**: Input the source and destination cities on the map.
@@ -49,19 +63,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-##Team Details
-
-H. Dheeraj Kishore	    99220040269
-G. Hemanandan Reddy	    99220040265
-T. Akash Reddy	        99220040209
-G. Geetha Vinay Krishna	99220040267
-T. Girish Swamy	        99220040207
-
-##Guide By
-
-Dr. R. Sumathi
-(Assistant Professor)
-
-
-
