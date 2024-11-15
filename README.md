@@ -40,7 +40,7 @@
 
 ## Guide
 
-Guided by **Dr. R. Sumathi**, Assistant Professor
+Guided by **Dr. R. Sumathi**, Assistant Professor, Kalasalingam Academy of Research and Education
 
 ## Usage
 
